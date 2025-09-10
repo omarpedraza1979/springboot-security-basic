@@ -2,7 +2,7 @@
 # 🚀 springboot-security-basic
 
 Proyecto de ejemplo en Java (Spring Boot) que demuestra cómo proteger una API de pagos usando Spring Security con autenticación básica HTTP.
-El proyecto contiene dos endPoints, 1-Pagos con ruta protegida (usuario/contraseña (omar/abc123) ) y 2-Usuarios con ruta publica.
+El proyecto contiene dos endPoints, **1-Pagos** con ruta protegida (usuario/contraseña (omar/abc123) ) y **2-Usuarios** con ruta publica.
 
 ---
 
