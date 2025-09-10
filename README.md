@@ -46,7 +46,7 @@ El proyecto contiene dos endPoints, **1-Pagos** con ruta protegida (usuario/cont
 1. Clonar
 
 git clone https://github.com/omarpedraza1979/springboot-security-basic.git
-cd springboot-security-basic
+ cd springboot-security-basic
 
 3. Compilar y ejecutar
 ..springboot-security-basic> mvn spring-boot:run   
