@@ -68,8 +68,12 @@ El proyecto contiene dos endPoints, **1-Pagos** con ruta protegida (usuario/cont
 
 1. Lista de Pagos (usuario/contraseña (omar/abc123))
 
+ - curl -u omar:abc123 http://localhost:8080/pagos
+ - curl -H "Authorization: Basic b21hcjphYmMxMjM=" http://localhost:8080/pagos
 
 2. Lista usuarios (publico)
+
+ - curl http://localhost:8080/usuarios
 
 
 ## 🧪 Postman
